@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohmedbakr1911/leet-code-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mohmedbakr1911/leet-code-problem-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohmedbakr1911/leet-code-problem-solving/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mohmedbakr1911/leet-code-problem-solving/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohmedbakr1911/leet-code-problem-solving/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mohmedbakr1911/leet-code-problem-solving/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,4 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mohmedbakr1911/leet-code-problem-solving/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/mohmedbakr1911/leet-code-problem-solving/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/mohmedbakr1911/leet-code-problem-solving/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/mohmedbakr1911/leet-code-problem-solving/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
